@@ -8,7 +8,7 @@ setup(
   author = 'Mudit Jain',                   # Type in your name
   author_email = 'jainmudit67890.md@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/muditjain33/Mudit_topsis',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/muditjain33/Mudit_topsis/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/muditjain33/Mudit_topsis/archive/v1.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'BUY'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
